@@ -12,6 +12,7 @@ struct ContentView: View {
         Divider()
         Text("Hello, other world!")
             .padding()
+        Divider()
     }
 }
 
